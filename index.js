@@ -20,5 +20,5 @@ $(document).ready(function () {
     $('.filter-import').load('filter.html');
 });
 $(document).ready(function () {
-    $('.master-import').load('old_index.html');
+    // $('.master-import').load('old_index.html');
 });
